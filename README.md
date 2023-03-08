@@ -1,0 +1,2 @@
+# Tecnica
+tecnica de programação
